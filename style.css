@@ -151,8 +151,12 @@ a:link, a:visited{
     h4 {font-size: 12px;}
 }
 
-@media screen and (max-width: 530px) {
-    .cardDescription{font-size: 10px;}
+@media screen and (max-width: 550px) {
+    .cardDescription{font-size: 12px;}
+} 
+
+@media screen and (max-width: 400px) {
+    .cardDescription{font-size: 8px;}
 } 
 
 /* Sections & Styling */
