@@ -152,7 +152,7 @@ a:link, a:visited{
 }
 
 @media screen and (max-width: 530px) {
-    .cardDescription{font-size: 0.4em;}
+    .cardDescription{font-size: 1opx;}
 } 
 
 /* Sections & Styling */
