@@ -2,7 +2,7 @@
 
 Built from scratch using HTML, CSS, and JS
 
-Features all the coding projects I've done ranging from personal, academic, and projects from hackathons. 
-Includes some info about me as a person and some links to my other socials/contacts
+Features some of the coding projects I've done ranging from personal, academic, and projects from hackathons. 
 
-** Outdated **
+** Disclaimer: The website is a tad bit outdated since i've been busy with other things like life! **
+Last Effective Update: ~Oct 2021
