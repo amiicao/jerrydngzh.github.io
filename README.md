@@ -1,6 +1,6 @@
 # jerrydngzh.github.io - My Portfolio Website
 
-Built from scratch using HTML, CSS, and JS
+Built from scratch using plain old HTML, CSS, and JS
 
 Features some of the coding projects I've done ranging from personal, academic, and projects from hackathons. 
 
