@@ -1,6 +1,7 @@
 function menuButton(x) {
     x.classList.toggle("change");
 }
+
 function toggleNav() {
     var x = document.getElementById("menuNav");
     if (x.style.height === "100%") {
